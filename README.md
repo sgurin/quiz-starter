@@ -29,3 +29,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Example of Quize UI
+https://user-images.githubusercontent.com/25930200/154100579-acf58981-0b4c-4ca3-9f8c-c89ec4ef9a4a.mp4
+
+
